@@ -14,3 +14,10 @@ This is a python code which can be run in any environment which supports Python 
   For Mac:
     i) Go the path which has this file
     ii) Then simply write the 'python ./' name of the file (python ./github_repos.py) and press enter.
+    
+   
+Output will be like this:
+coursera_assignment
+datascience-exam
+hadoop-book
+ProgrammingAssignment2
